@@ -148,17 +148,17 @@ h1 {
 	float: right;
 }
 .photos img {
-	opacity: 0.8;
-	-moz-transition: all 0.5s ease-out;
-	-o-transition: all 0.5s ease-out;
-	-webkit-transition: all 0.5s ease-out;	
+	opacity: 0.7;
+	-moz-transition: all 0.3s ease-out;
+	-o-transition: all 0.3s ease-out;
+	-webkit-transition: all 0.3s ease-out;	
 }
 .photos img:hover {
 	opacity: 1;
-	-moz-transition: scale(1.1);
-	-webkit-transition: scale(1.1);
-	-o-transition: scale(1.1);
-	transform: scale(1.1);
+	-moz-transition: scale(1.2);
+	-webkit-transition: scale(1.2);
+	-o-transition: scale(1.2);
+	transform: scale(1.2);
 }
 .about {
 	padding-top: 80px;
